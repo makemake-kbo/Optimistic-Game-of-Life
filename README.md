@@ -12,7 +12,9 @@ The rules are:
 You can only reset the board to its starting position and advance by one step at a time.
 
 ## Frontend
-The frontend is a simple static website, you can host your own by cloning the repository and serving the `index.html` file.
+The frontend is currently hosted <a href="https://makemake-kbo.github.io/Optimistic-Game-of-Life/"><u>here</u></a>.
+
+You can also host your own by cloning the repository and serving the `index.html` file.
 
 ## Contributing
 If you find any bugs or have a suggestion, please open an issue. I also accept PR's so if you'd like to implement a feature feel free to open a PR.
