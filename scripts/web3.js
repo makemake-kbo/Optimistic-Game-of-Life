@@ -1,10 +1,10 @@
 let web3 = new Web3(Web3.givenProvider);
-web3 = new Web3(new Web3.providers.HttpProvider("https://rpc.goerli.mudit.blog"));
+web3 = new Web3(new Web3.providers.HttpProvider("https://mainnet.optimism.io"));
 
 
 var contract;
 function initializeContract() {
-	contract = new web3.eth.Contract(contractABI, contractAddress); //0x1b7e35ee9fAF386A0ae40685c8a2EC3f51ddFb32
+	contract = new web3.eth.Contract(contractABI, contractAddress);
 	//contract.methods.name().call((err, result) => { console.log('Contract initialized: ' + result) });
 }
 
