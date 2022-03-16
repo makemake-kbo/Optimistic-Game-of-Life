@@ -12,7 +12,7 @@ The rules are:
 You can only reset the board to its starting position and advance by one step at a time.
 
 ## Frontend
-The frontend is currently hosted <a href="https://makemake-kbo.github.io/Optimistic-Game-of-Life/"><u>here</u></a>.
+The frontend is currently hosted <a href="optimisticgol.com/"><u>here</u></a>.
 
 You can also host your own by cloning the repository and serving the `index.html` file.
 
